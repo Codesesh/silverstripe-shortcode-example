@@ -1,0 +1,1 @@
+<a class="btn2" href="$link">$content</a>
